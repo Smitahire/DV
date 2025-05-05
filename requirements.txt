@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-groq
+PyPDF2
+python-docx
+fpdf
+python-dotenv
+spacy
+textblob
+scikit-learn
